@@ -23,7 +23,7 @@ NOTE: This tool's only work for Indonesia number phone.
 		if pilih == 1:
 			import src.payu
 		elif pilih == 2:
-			import src.matahari
+			import matahari.matahari
 		elif pilih == 3:
 			import src.alodok
 		elif pilih == 4:
