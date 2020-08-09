@@ -10,7 +10,7 @@ class Main:
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 		;       S P A M  S M S      ;
 		;---------------------------;
-		;       Author : noobie     ;
+		;       Momo Cyber.         ;
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 NOTE: This tool's only work for Indonesia number phone.
 1. SMS Gratis
